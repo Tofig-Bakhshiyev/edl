@@ -283,7 +283,7 @@
 198.235.24.64
 193.163.125.46
 103.204.200.71
-91.199.160.133
+91.199.160.133Əgər istəyirsinizsə, bu hadisəyə əsaslanaraq tam SIEM qayda paketi (Sigma formatında) və ya incident response checklist təqdim edə bilərəm.
 45.13.225.108
 106.75.24.140
 205.210.31.68
@@ -4316,7 +4316,9 @@ Value
 185.208.159.170
 36.139.226.111
 103.201.131.88
+195.191.65.223
 192.168.1.1
+
 
 
 
